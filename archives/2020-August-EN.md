@@ -16,7 +16,7 @@ See: [US Treasury sanctions against Iran](https://www.treasury.gov/resource-cent
 
 ## List
 
-**Note**: This list of sanctions only includes technology, computers and programming in related fields. These items have been listed for a variety of reasons, including IP blocking or cessation of export trade.
+**Note**: This list of sanctions only includes technology, computers and programming in related fields. These items have been listed for a variety of reasons, including IP blocking or cessation of export trade. Refer to the [archive](/archives) to view older or newer lists
 
 ### Operating system
 * [Android](https://www.android.com/) - [Google privacy and terms](https://policies.google.com/terms)
