@@ -3,9 +3,11 @@
 ![Sample response since IP blocking by Airbnb](/assets/airbnb-ip-blocking.png "IP blocking by Airbnb")
 > These pictures are familiar to you if you are Iranian. There is also a similar picture of [IP blocking by Google](/assets/google-ip-blocking.jpg) that developers face a lot of this problem.
 
+**English** - (Other languages: [Persian](/archives/2020-August-FA.md))
+
 ## Story
 
-After the 1979 Islamic Revolution, heavy US-led international sanctions were imposed to put pressure on the people and the government to prevent Iran from moving toward benevolent goals. Most of these sanctions were based on false pretenses such as Iran's access to nuclear weapons and support for terrorism. They are forming and feeding ISIS against you at a heavy cost. And then shamelessly admit it. When you overthrow the ISIS government, the resistance commanders are cowardly assassinated. And strangely enough, then they call your commander a terrorist and you a terrorist nation. They safeguard the killers of thousands of Iranians and hold conferences with them to overthrow the "Iranian regime". At the same time, they prevent you from defending. Is this really human rights?
+After the [1979 Islamic Revolution](https://english.khamenei.ir/Opinions/IRevolution), heavy [US-led international sanctions](https://www.treasury.gov/resource-center/sanctions/programs/pages/iran.aspx) were imposed to put pressure on the people and the government to prevent Iran from moving toward benevolent goals. Most of these sanctions were based on false pretenses such as Iran's access to nuclear weapons and support for terrorism. They are forming and feeding ISIS against you at a heavy cost. And then shamelessly admit it. When you overthrow the ISIS government, the resistance commanders are cowardly assassinated. And strangely enough, then they call your commander a terrorist and you a terrorist nation. They safeguard the killers of thousands of Iranians and hold conferences with them to overthrow the "Iranian regime". At the same time, they prevent you from defending. Is this really human rights?
 
 
 Although your country is being boycotted under various pretexts, the sanctions do not end here. Sanctions are not limited to government organizations and groups, but affect the lives of all Iranians living there. In this list, we will see a number of Internet sanctions that have affected technology, computers and programming in related fields.
@@ -90,7 +92,7 @@ See: [US Treasury sanctions against Iran](https://www.treasury.gov/resource-cent
 * [FileHippo](https://filehippo.com/) - FileHippo seems to be using Google Cloud Platform. See [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
 
 ### Educational sites
-<small>It is not possible to buy paid educational content unless it is available for free.</small>
+<sup>It is not possible to buy paid educational content unless it is available for free.</sup>
 
 * [Codecademy](https://www.codecademy.com/terms)
 * [Coursera](https://www.coursera.org/about/terms)
@@ -116,7 +118,7 @@ See: [US Treasury sanctions against Iran](https://www.treasury.gov/resource-cent
 * [Instagram](https://www.instagram.com/) - Many posts were removed by Instagram (under the pretext of violating the [Community Guidelines](https://help.instagram.com/477434105621119)).
 
 ### Applications or Services
-<small>These applications or services may be paid or in-app purchases or may use IP blocking for deprivation.</small>
+<sup>These applications or services may be paid or in-app purchases or may use IP blocking for deprivation.</sup>
 
 * [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html)
 * [Airbnb](https://www.airbnb.com/) - *With IP Blocking ([```HTTP 403```](https://www.airbnb.com/region_unavailable/index.html))*
