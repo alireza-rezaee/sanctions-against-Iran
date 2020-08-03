@@ -71,6 +71,7 @@ See: [US Treasury sanctions against Iran](https://www.treasury.gov/resource-cent
 ### Cloud computing service provider
 * [Alibaba Cloud](https://www.alibabacloud.com) - [Terms of Service](https://www.alibabacloud.com/help/doc-detail/42416.htm)
 * [Amazon Web Services](https://aws.amazon.com/) - [AWS Customer Agreement](https://aws.amazon.com/agreement/)
+* [Cloudflare](https://www.cloudflare.com/) - [Subscription Agreement](https://www.cloudflare.com/terms/)
 * [Google Cloud Platform](https://cloud.google.com/) - [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
 * [Microsoft Azure](https://azure.microsoft.com/) - [Microsoft Exporting Rules](https://www.microsoft.com/en-us/exporting/overview.aspx) - When registering an [Azure account](https://azure.microsoft.com/en-us/account/), Iran is not registered in the list of countries.
 
@@ -89,13 +90,17 @@ See: [US Treasury sanctions against Iran](https://www.treasury.gov/resource-cent
 * [Apple App Store](https://apps.apple.com/us/app/apple-store/id375380948) - [Terms and Conditions](https://www.apple.com/legal/internet-services/itunes/us/terms.html) - Apple operating systems are restricted - A significant number of applications were removed from the App Store. [Follow discussions](https://discussions.apple.com/search?q=iranian%20apps) to see instances.
 * [Google Code Archieve](https://code.google.com/archive/) - [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
 * [Google Play Store](https://play.google.com/) - [Google privacy and terms](https://policies.google.com/terms) - A significant number of applications were removed from the Play Store. [Follow help center](https://support.google.com/googleplay/search?q=iranian+apps) to see instances.
-* [FileHippo](https://filehippo.com/) - FileHippo seems to be using Google Cloud Platform. See [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
+* [FileHippo](https://filehippo.com/) - Seems to be using Google Cloud Platform. See [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
 
 ### Educational sites
 <sup>It is not possible to buy paid educational content unless it is available for free.</sup>
 
 * [Codecademy](https://www.codecademy.com/terms)
+* [Code with Mosh](https://codewithmosh.com/) - Seems to be using Cloudflare. See [Subscription Agreement](https://www.cloudflare.com/terms/) - *With IP Blocking (```HTTP 403```)*
 * [Coursera](https://www.coursera.org/about/terms)
+* [GitLab docs](http://docs.gitlab.com/) - *With IP Blocking (```No response```)*
+* [JavaScript.com](https://www.javascript.com/) - *With IP Blocking (```No response```)*
+* [JSON.org](https://www.json.org) - *With IP Blocking (```No response```)*
 * [Lynda](https://www.lynda.com/aboutus/lotterms.aspx)
 * [Udacity](https://www.udacity.com/legal/en-us/terms-of-use)
 * [Udemy](https://www.udemy.com/)
@@ -106,8 +111,10 @@ See: [US Treasury sanctions against Iran](https://www.treasury.gov/resource-cent
 * [Google Developers](https://developers.google.com/) - [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
 * [Google Material](https://material.io/) - [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
 * [Google Data Studio](https://datastudio.google.com/) - [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
+* [Grafana](https://grafana.com/) - Seems to be using Google Cloud Platform. See [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
 * [Internet Information Services](https://www.iis.net/) - [Microsoft Exporting Rules](https://www.microsoft.com/en-us/exporting/overview.aspx) - (*Windows is restricted*)
 * [Font Awesome](https://fontawesome.com/) - except for free use
+* [Olark](https://www.olark.com/) - Seems to be using Google Cloud Platform. See [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)* 
 
 ### Team instant messaging
 * [Cisco WebEx](http://www.webex.com/) - *With IP Blocking (```HTTP 301``` → ```No response```)*
@@ -136,11 +143,13 @@ See: [US Treasury sanctions against Iran](https://www.treasury.gov/resource-cent
 * [Malwarebytes](https://www.malwarebytes.com/)
 * [Microsoft Defender](https://www.microsoft.com/en-us/windows/comprehensive-security) - [Microsoft Exporting Rules](https://www.microsoft.com/en-us/exporting/overview.aspx) - *(Windows is restricted)*
 * [Microsoft Office](https://www.office.com/) - [Microsoft Exporting Rules](https://www.microsoft.com/en-us/exporting/overview.aspx) - *(Windows is restricted)* - except [Office Online](https://www.office.com)
+* [Milkshake App](https://milkshake.app/) - Seems to be using Cloudflare. See [Subscription Agreement](https://www.cloudflare.com/terms/) - *With IP Blocking (```HTTP 403```)*
 * [Norton AntiVirus](https://us.norton.com/) - *With IP Blocking (```HTTP 200``` - [Static web page](http://buy-static.norton.com/estore/html/EmbargoedCountriesPage.html))*
 * [TeamViewer](https://www.teamviewer.com/)
 * [TechSmith Camtasia](https://www.techsmith.com/store/camtasia)
 * [TechSmith Snagit](https://www.techsmith.com/store/snagit)
-* [Uber](https://www.uber.com/) - Uber seems to be using Google Cloud Platform. See [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
+* [TensorFlow](https://www.tensorflow.org/) - Seems to be using Google Cloud Platform. See [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
+* [Uber](https://www.uber.com/) - Seems to be using Google Cloud Platform. See [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
 * [VMware](https://www.vmware.com/)
 * [WinRAR](https://www.win-rar.com)
 * [YouTube](https://www.youtube.com/) - It is also blocked according to [Iranian internet regulations](https://internet.ir/crime_index.html).

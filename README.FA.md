@@ -74,6 +74,7 @@
 ### خدمات رایانش ابری
 * خدمات [Alibaba Cloud](https://www.alibabacloud.com) - پیمان: [Terms of Service](https://www.alibabacloud.com/help/doc-detail/42416.htm)
 * خدمات [Amazon Web Services](https://aws.amazon.com/) - پیمان: [AWS Customer Agreement](https://aws.amazon.com/agreement/)
+* خدمات [Cloudflare](https://www.cloudflare.com/) - پیمان: [Subscription Agreement](https://www.cloudflare.com/terms/)
 * خدمات [Google Cloud Platform](https://cloud.google.com/) - پیمان: [Google privacy and terms](https://policies.google.com/terms) - *همراه با مسدودیت آی‌پی (```کد ۴۰۳```)*
 * خدمات [Microsoft Azure](https://azure.microsoft.com/) - پیمان: [Microsoft Exporting Rules](https://www.microsoft.com/en-us/exporting/overview.aspx) - هنگام [ثبت حساب Azure](https://azure.microsoft.com/en-us/account/), ایران در فهرست کشور ها قرار ندارد.
 
@@ -92,7 +93,7 @@
 * فروشگاه [Apple App Store](https://apps.apple.com/us/app/apple-store/id375380948) - پیمان: [Terms and Conditions](https://www.apple.com/legal/internet-services/itunes/us/terms.html) - سیستم عامل های اپل تحریم اند - تعداد چشم گیری از نرم افزار های ایرانی از فروشگاه اپل حذف شدند. این [بحث و گفتگو ها](https://discussions.apple.com/search?q=iranian%20apps) را دنبال کنید.
 * آرشیو [Google Code Archieve](https://code.google.com/archive/) - پیمان: [Google privacy and terms](https://policies.google.com/terms) - *همراه با مسدودیت آی‌پی (```کد ۴۰۳```)*
 * فروشگاه [Google Play Store](https://play.google.com/) - پیمان: [Google privacy and terms](https://policies.google.com/terms) - تعداد قابل چشم گیری از نرم افزار های ایرانی از فروشگاه گوگل حذف شدند. این [بحث و گفتگو ها](https://support.google.com/googleplay/search?q=iranian+apps) ها را دنبال کنید.
-* سایت [FileHippo](https://filehippo.com/) - به نظر میرسد که FileHippo از خدمات ابری گوگل بهره می‌برد. [قوانین گوگل](https://policies.google.com/terms) را مطالعه کنید. - *همراه با مسدودیت آی‌پی (```کد ۴۰۳```)*
+* سایت [FileHippo](https://filehippo.com/) - به نظر میرسد که از خدمات ابری گوگل بهره می‌برد. [قوانین گوگل](https://policies.google.com/terms) را مطالعه کنید. - *همراه با مسدودیت آی‌پی (```کد ۴۰۳```)*
 
 ### سایت های آموزشی
 
@@ -101,7 +102,11 @@
 </sup>
 
 * سایت [Codecademy](https://www.codecademy.com/terms)
+* سایت [Code with Mosh](https://codewithmosh.com/) - به نظر می رسد که از خدمات ابری Cloudflare بهره می‌برد. قوانین [Cloudflare](https://www.cloudflare.com/terms/) را نگاه کنید. - *همراه با مسدودیت آی‌پی (```کد ۴۰۳```)*
 * سایت [Coursera](https://www.coursera.org/about/terms)
+* سایت [GitLab docs](http://docs.gitlab.com/) - *همراه با مسدودیت آی‌پی (بدون پاسخ)*
+* سایت [JavaScript.com](https://www.javascript.com/) - *همراه با مسدودیت آی‌پی (بدون پاسخ)*
+* سایت [JSON.org](https://www.json.org) - *همراه با مسدودیت آی‌پی (بدون پاسخ)*
 * سایت [Lynda](https://www.lynda.com/aboutus/lotterms.aspx)
 * سایت [Udacity](https://www.udacity.com/legal/en-us/terms-of-use)
 * سایت [Udemy](https://www.udemy.com/)
@@ -112,8 +117,10 @@
 * خدمات [Google Developers](https://developers.google.com/) - پیمان: [Google privacy and terms](https://policies.google.com/terms) - *همراه با مسدودیت آی‌پی (```کد ۴۰۳```)*
 * خدمات [Google Material](https://material.io/) - پیمان: [Google privacy and terms](https://policies.google.com/terms) - *همراه با مسدودیت آی‌پی (```کد ۴۰۳```)*
 * خدمات [Google Data Studio](https://datastudio.google.com/) - پیمان: [Google privacy and terms](https://policies.google.com/terms) - *همراه با مسدودیت آی‌پی (```کد ۴۰۳```)*
+* خدمات [Grafana](https://grafana.com/) - به نظر میرسد که از خدمات ابری گوگل بهره می‌برد. [قوانین گوگل](https://policies.google.com/terms) را مطالعه کنید. - *همراه با مسدودیت آی‌پی (```کد ۴۰۳```)*
 * خدمات [Internet Information Services](https://www.iis.net/) - پیمان: [Microsoft Exporting Rules](https://www.microsoft.com/en-us/exporting/overview.aspx) - (*ویندوز تحریم است*)
 * خدمات [Font Awesome](https://fontawesome.com/) - به استثنای استفاده از خدمات رایگان
+* خدمات [Olark](https://www.olark.com/) - به نظر میرسد که از خدمات ابری گوگل بهره می‌برد. [قوانین گوگل](https://policies.google.com/terms) را مطالعه کنید. - *همراه با مسدودیت آی‌پی (```کد ۴۰۳```)*
 
 ### پیام رسان های تیمی
 * پیام رسان [Cisco WebEx](http://www.webex.com/) - *همراه با مسدودیت آی‌پی (```کد ۳۰۱``` → بدون پاسخ)*
@@ -145,11 +152,13 @@
 * پاد بدافزار [Malwarebytes](https://www.malwarebytes.com/)
 * پاد بدافزار [Microsoft Defender](https://www.microsoft.com/en-us/windows/comprehensive-security) - پیمان: [Microsoft Exporting Rules](https://www.microsoft.com/en-us/exporting/overview.aspx) - *(ویندوز تحریم است)*
 * نرم افزار [Microsoft Office](https://www.office.com/) - پیمان: [Microsoft Exporting Rules](https://www.microsoft.com/en-us/exporting/overview.aspx) - *(ویندوز تحریم است)* - به استثنای [آفیس آنلاین](https://www.office.com)
+* نرم افزار [Milkshake App](https://milkshake.app/) - به نظر می رسد که از خدمات ابری Cloudflare بهره می‌برد. قوانین [Cloudflare](https://www.cloudflare.com/terms/) را نگاه کنید. - *همراه با مسدودیت آی‌پی (```کد ۴۰۳```)*
 * پاد بدافزار [Norton AntiVirus](https://us.norton.com/) - *همراه با مسدودیت آی‌پی (```کد ۲۰۰``` - [صفحه ثابت]([i](http://buy-static.norton.com/estore/html/EmbargoedCountriesPage.html)))*
 * نرم افزار [TeamViewer](https://www.teamviewer.com/)
 * نرم افزار [TechSmith Camtasia](https://www.techsmith.com/store/camtasia)
 * نرم افزار [TechSmith Snagit](https://www.techsmith.com/store/snagit)
-* شرکت [Uber](https://www.uber.com/) - - به نظر میرسد که Uber از خدمات ابری گوگل بهره می‌برد. [قوانین گوگل](https://policies.google.com/terms) را مطالعه کنید. - *همراه با مسدودیت آی‌پی (```کد ۴۰۳```)*
+* نرم افزار [TensorFlow](https://www.tensorflow.org/) - به نظر میرسد که از خدمات ابری گوگل بهره می‌برد. [قوانین گوگل](https://policies.google.com/terms) را مطالعه کنید. - *همراه با مسدودیت آی‌پی (```کد ۴۰۳```)*
+* شرکت [Uber](https://www.uber.com/) - به نظر میرسد که از خدمات ابری گوگل بهره می‌برد. [قوانین گوگل](https://policies.google.com/terms) را مطالعه کنید. - *همراه با مسدودیت آی‌پی (```کد ۴۰۳```)*
 * نرم افزار [VMware](https://www.vmware.com/)
 * نرم افزار [WinRAR](https://www.win-rar.com)
 * شرکت [YouTube](https://www.youtube.com/) - به دلیل تخطی از [جرایم رایانه ای](https://rc.majlis.ir/fa/law/show/135717) در ایران نیز فیلتر شده است.
