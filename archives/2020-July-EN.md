@@ -3,7 +3,7 @@
 ![Sample response since IP blocking by Airbnb](/assets/airbnb-ip-blocking.png "IP blocking by Airbnb")
 > These pictures are familiar to you if you are Iranian. There is also a similar picture of [IP blocking by Google](/assets/google-ip-blocking.jpg) that developers face a lot of this problem.
 
-**English** - (Other languages: [Persian](/archives/2020-August-FA.md))
+**English** - (Other languages: [Persian](/archives/2020-July-FA.md))
 
 ## Story
 
