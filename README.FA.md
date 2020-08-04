@@ -48,7 +48,7 @@
 * بسته [Go lang](https://golang.org/) - پیمان: [Google privacy and terms](https://policies.google.com/terms) - *همراه با مسدودیت آی‌پی (```کد ۴۰۳```)*
 * بسته [Intel C++ Compiler](https://software.intel.com/content/www/us/en/develop/tools/compilers/c-compilers.html) - *همراه با مسدودیت آی‌پی (بدون پاسخ)*
 * بسته [Java](https://www.oracle.com/java/technologies/javase-downloads.html) - پیمان: [License Agreement](https://www.oracle.com/downloads/licenses/javase-license1.html)
-* بسته [Qt](https://www.qt.io/) - توضیح: except use Qt under the (L)GPL
+* بسته [Qt](https://www.qt.io/) - پیمان: [Licensing](https://www.qt.io/licensing/) - استفاده تحت مجوز (L)GPL استثنا است.
 * بسته [RedHat OpenJDK](https://developers.redhat.com/products/openjdk/download) - برای دریافت، نیازمند حساب کاربری است. در صورت ایجاد حساب کاربری پس از مدتی [تعلیق](https://access.redhat.com/articles/1340183) میشود.
 * بسته [.Net Framework](https://dotnet.microsoft.com/download/dotnet-framework) - توضیح: به استثنای dotNet core یا dotNet (>=5) - ویندوز تحریم است
 
@@ -113,6 +113,8 @@
 
 ### خدمات وب
 * خدمات [Alexa](https://www.alexa.com/)
+* خدمات [Algolia](https://www.algolia.com/) - به نظر می رسد که از خدمات ابری Cloudflare بهره می‌برد. قوانین [Cloudflare](https://www.cloudflare.com/terms/) را نگاه کنید. - *همراه با مسدودیت آی‌پی (```کد ۴۰۳```)*
+* فرم‌ورک [Bootstrap](https://getbootstrap.com/) - برای جست‌وجو میان اسناد از Algolia استفاده میکند. که آی‌پی ایران را مسدود کرده است.
 * خدمات [Debuggex](https://www.debuggex.com/) - *همراه با مسدودیت آی‌پی (بدون پاسخ)*
 * خدمات [Google Analytics](https://analytics.google.com/analytics/web/) - پیمان: [Google privacy and terms](https://policies.google.com/terms) - *همراه با مسدودیت آی‌پی (```کد ۴۰۳```)*
 * خدمات [Google Developers](https://developers.google.com/) - پیمان: [Google privacy and terms](https://policies.google.com/terms) - *همراه با مسدودیت آی‌پی (```کد ۴۰۳```)*
@@ -120,11 +122,12 @@
 * خدمات [Google Data Studio](https://datastudio.google.com/) - پیمان: [Google privacy and terms](https://policies.google.com/terms) - *همراه با مسدودیت آی‌پی (```کد ۴۰۳```)*
 * خدمات [Grafana](https://grafana.com/) - به نظر میرسد که از خدمات ابری گوگل بهره می‌برد. [قوانین گوگل](https://policies.google.com/terms) را مطالعه کنید. - *همراه با مسدودیت آی‌پی (```کد ۴۰۳```)*
 * خدمات [Internet Information Services](https://www.iis.net/) - پیمان: [Microsoft Exporting Rules](https://www.microsoft.com/en-us/exporting/overview.aspx) - (*ویندوز تحریم است*)
+* خدمات [jsDelivr](http://www.jsdelivr.com/) - برای جست‌وجو از Algolia استفاده میکند. که آی‌پی ایران را مسدود کرده است.
 * خدمات [Font Awesome](https://fontawesome.com/) - به استثنای استفاده از خدمات رایگان
 * خدمات [Olark](https://www.olark.com/) - به نظر میرسد که از خدمات ابری گوگل بهره می‌برد. [قوانین گوگل](https://policies.google.com/terms) را مطالعه کنید. - *همراه با مسدودیت آی‌پی (```کد ۴۰۳```)*
 
 ### پیام رسان های تیمی
-* پیام رسان [Cisco WebEx](http://www.webex.com/) - *همراه با مسدودیت آی‌پی (```کد ۳۰۱``` → بدون پاسخ)*
+* پیام رسان [Cisco WebEx](http://www.webex.com/) - *همراه با مسدودیت آی‌پی (```کد ۳۰۱``` ← بدون پاسخ)*
 * پیام رسان [Microsoft Teams](https://www.microsoft.com/en-us/exporting/overview.aspx) - به حساب Azure نیازمند است.
 * پیام رسان [Slack](https://slack.com/) - پیمان: [Global Trade Compliance](https://slack.com/intl/en-ir/help/articles/360020783254-Global-Trade-Compliance-) - از ایجاد workspace ممانعت میکند.
 
@@ -138,7 +141,7 @@
 </sup>
 
 * نرم افزار های [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html)
-* شرکت [Airbnb](https://www.airbnb.com/) - *همراه با مسدویت آی‌پی ([کد ۴۰۳]([i](https://www.airbnb.com/region_unavailable/index.html)))*
+* شرکت [Airbnb](https://www.airbnb.com/) - *همراه با مسدویت آی‌پی ([کد ۴۰۳](https://www.airbnb.com/region_unavailable/index.html))*
 * شرکت [Amazon](https://www.amazon.com/)
 * شرکت [Avast](https://www.avast.com/) - *همراه با مسدودیت آی‌پی (```کد ۴۰۳```)*
 * شرکت [AVG](https://www.avg.com/) - *همراه با مسدودیت آی‌پی (بدون پاسخ)*
@@ -154,7 +157,7 @@
 * پاد بدافزار [Microsoft Defender](https://www.microsoft.com/en-us/windows/comprehensive-security) - پیمان: [Microsoft Exporting Rules](https://www.microsoft.com/en-us/exporting/overview.aspx) - *(ویندوز تحریم است)*
 * نرم افزار [Microsoft Office](https://www.office.com/) - پیمان: [Microsoft Exporting Rules](https://www.microsoft.com/en-us/exporting/overview.aspx) - *(ویندوز تحریم است)* - به استثنای [آفیس آنلاین](https://www.office.com)
 * نرم افزار [Milkshake App](https://milkshake.app/) - به نظر می رسد که از خدمات ابری Cloudflare بهره می‌برد. قوانین [Cloudflare](https://www.cloudflare.com/terms/) را نگاه کنید. - *همراه با مسدودیت آی‌پی (```کد ۴۰۳```)*
-* پاد بدافزار [Norton AntiVirus](https://us.norton.com/) - *همراه با مسدودیت آی‌پی (```کد ۲۰۰``` - [صفحه ثابت]([i](http://buy-static.norton.com/estore/html/EmbargoedCountriesPage.html)))*
+* پاد بدافزار [Norton AntiVirus](https://us.norton.com/) - *همراه با مسدودیت آی‌پی (```کد ۲۰۰``` - [صفحه ثابت](http://buy-static.norton.com/estore/html/EmbargoedCountriesPage.html))*
 * نرم افزار [TeamViewer](https://www.teamviewer.com/)
 * نرم افزار [TechSmith Camtasia](https://www.techsmith.com/store/camtasia)
 * نرم افزار [TechSmith Snagit](https://www.techsmith.com/store/snagit)
