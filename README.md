@@ -107,6 +107,8 @@ See: [US Treasury sanctions against Iran](https://www.treasury.gov/resource-cent
 
 ### Web Services
 * [Alexa](https://www.alexa.com/)
+* [Algolia](https://www.algolia.com/) - Seems to be using Cloudflare. See [Subscription Agreement](https://www.cloudflare.com/terms/) - *With IP Blocking (```HTTP 403```)*
+* [Bootstrap](https://getbootstrap.com/) - Uses Algolia to search for documents. Which has blocked Iran's IP.
 * [Debuggex](https://www.debuggex.com/) - *With IP Blocking (```No response```)*
 * [Google Analytics](https://analytics.google.com/analytics/web/) - [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
 * [Google Developers](https://developers.google.com/) - [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
@@ -114,6 +116,7 @@ See: [US Treasury sanctions against Iran](https://www.treasury.gov/resource-cent
 * [Google Data Studio](https://datastudio.google.com/) - [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
 * [Grafana](https://grafana.com/) - Seems to be using Google Cloud Platform. See [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
 * [Internet Information Services](https://www.iis.net/) - [Microsoft Exporting Rules](https://www.microsoft.com/en-us/exporting/overview.aspx) - (*Windows is restricted*)
+* [jsDelivr](http://www.jsdelivr.com/) - Uses Algolia to search. Which has blocked Iran's IP.
 * [Font Awesome](https://fontawesome.com/) - except for free use
 * [Olark](https://www.olark.com/) - Seems to be using Google Cloud Platform. See [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)* 
 
