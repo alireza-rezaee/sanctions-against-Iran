@@ -113,6 +113,7 @@
 
 ### خدمات وب
 * خدمات [Alexa](https://www.alexa.com/)
+* خدمات [Debuggex](https://www.debuggex.com/) - *همراه با مسدودیت آی‌پی (بدون پاسخ)*
 * خدمات [Google Analytics](https://analytics.google.com/analytics/web/) - پیمان: [Google privacy and terms](https://policies.google.com/terms) - *همراه با مسدودیت آی‌پی (```کد ۴۰۳```)*
 * خدمات [Google Developers](https://developers.google.com/) - پیمان: [Google privacy and terms](https://policies.google.com/terms) - *همراه با مسدودیت آی‌پی (```کد ۴۰۳```)*
 * خدمات [Google Material](https://material.io/) - پیمان: [Google privacy and terms](https://policies.google.com/terms) - *همراه با مسدودیت آی‌پی (```کد ۴۰۳```)*
