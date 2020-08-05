@@ -5,7 +5,16 @@
 ![نمونه پاسخ از هنگام مسدودیت آی‌پی](/assets/airbnb-ip-blocking.png "تصویر مسدودیت آی‌پی")
 > اگر این تصاویر برای شما آشنا باشد، احتمالاً ایرانی باشید. تصاویر مشابه‌ی برای [مسدودیت آی‌پی توسط گوگل](https://github.com/alireza-rezaee/sanctions-against-Iran/blob/master/assets/google-ip-blocking.jpg) نیز وجود دارد؛ توسعه دهندگان به وفور با آن رو به رو می شوند.
 
+
 **فارسی** - (دیگر زبان ها: [English](/README.md))
+
+
+
+![So do not weaken and call for peace while you are superior; and Allah is with you and will never deprive you of [the reward of] your deeds. Muhammad [47:35] - Quran](assets/Quran-Muhammad-Aya35-AR+FA.png "سوره محمد، آیه ۳۵")
+
+[آیه ۳۵ سوره مبارکه محمّد](http://tanzil.net/#47:35) را در قرآن بخوانید.
+
+
 
 ## روایت ماجرا
 
