@@ -146,6 +146,7 @@ See: [US Treasury sanctions against Iran](https://www.treasury.gov/resource-cent
 * [Avira](https://www.avira.com/)
 * [BitDefender](https://www.bitdefender.com/)
 * [eBay](http://www.ebay.com/)
+* [Epic Games](https://www.epicgames.com/) - [FAQ from billing support](https://www.epicgames.com/help/en-US/billing-support-c99/general-support-c102/what-regions-are-permitted-to-make-purchases-with-epic-games-a3323) - *With IP Blocking (In-app)*
 * [ESET](https://www.eset.com/)
 * [GlassWire](https://www.glasswire.com/) - [Terms of Use](https://www.glasswire.com/license/)
 * [GNU Privacy Guard](https://gnupg.org/) - Read [GNU Licenses FAQ](https://www.gnu.org/licenses/gpl-faq.en.html#ExportWarranties) - *With IP Blocking (```No response```)*

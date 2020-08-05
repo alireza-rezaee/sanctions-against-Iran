@@ -157,6 +157,7 @@
 * پاد بدافزار [Avira](https://www.avira.com/)
 * پاد بدافزار [BitDefender](https://www.bitdefender.com/)
 * فروشگاه [eBay](http://www.ebay.com/)
+* شرکت [Epic Games](https://www.epicgames.com/) - [پرسش و پاسخ از پشتیبانی فروش](https://www.epicgames.com/help/en-US/billing-support-c99/general-support-c102/what-regions-are-permitted-to-make-purchases-with-epic-games-a3323) - همراه با مسدودیت آی‌پی (درون برنامه)
 * پاد بدافزار [ESET](https://www.eset.com/)
 * نرم افزار [GlassWire](https://www.glasswire.com/) - پیمان: [Terms of Use](https://www.glasswire.com/license/)
 * سایت [GNU Privacy Guard](https://gnupg.org/) - [پرسش های متداول مجوز های GNU](https://www.gnu.org/licenses/gpl-faq.en.html#ExportWarranties) را بخوانید. - *همراه با مسدودیت آی‌پی (بدون پاسخ)*
