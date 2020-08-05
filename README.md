@@ -1,10 +1,10 @@
 # Sanctions against Islamic Republic of Iran
 
-![Sample response since IP blocking by Airbnb](/assets/airbnb-ip-blocking.png "IP blocking by Airbnb")
-> These pictures are familiar to you if you are Iranian. There is also a similar picture of [IP blocking by Google](/assets/google-ip-blocking.jpg) that developers face a lot of this problem.
+![Sample response since IP blocking by Airbnb](assets/airbnb-ip-blocking.png "IP blocking by Airbnb")
+> These pictures are familiar to you if you are Iranian. There is also a similar picture of [IP blocking by Google](assets/google-ip-blocking.jpg) that developers face a lot of this problem.
 
 
-**English** - (Other languages: [Persian](/README.FA.md))
+**English** - (Other languages: [Persian](README.FA.md))
 
 
 ![So do not weaken and call for peace while you are superior; and Allah is with you and will never deprive you of [the reward of] your deeds. Muhammad [47:35] - Quran](assets/Quran-Muhammad-Aya35-AR+EN.png "Muhammad [47:35] - Quran")
