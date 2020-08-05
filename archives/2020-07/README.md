@@ -1,9 +1,16 @@
 # Sanctions against Islamic Republic of Iran
 
-![Sample response since IP blocking by Airbnb](/assets/airbnb-ip-blocking.png "IP blocking by Airbnb")
-> These pictures are familiar to you if you are Iranian. There is also a similar picture of [IP blocking by Google](/assets/google-ip-blocking.jpg) that developers face a lot of this problem.
+![Sample response since IP blocking by Airbnb](assets/airbnb-ip-blocking.png "IP blocking by Airbnb")
+> These pictures are familiar to you if you are Iranian. There is also a similar picture of [IP blocking by Google](assets/google-ip-blocking.jpg) that developers face a lot of this problem.
 
-**English** - (Other languages: [Persian](/archives/2020-July-FA.md))
+
+**English** - (Other languages: [Persian](README.FA.md))
+
+
+![So do not weaken and call for peace while you are superior; and Allah is with you and will never deprive you of [the reward of] your deeds. Muhammad [47:35] - Quran](assets/Quran-Muhammad-Aya35-AR+EN.png "Muhammad [47:35] - Quran")
+
+Read Quran [Surah Muhammad [47:19]](http://tanzil.net/#trans/en.sahih/47:35)
+
 
 ## Story
 
@@ -16,7 +23,7 @@ See: [US Treasury sanctions against Iran](https://www.treasury.gov/resource-cent
 
 ## List
 
-**Note**: This list of sanctions only includes technology, computers and programming in related fields. These items have been listed for a variety of reasons, including IP blocking or cessation of export trade. Refer to the [archive](/archives) to view older or newer lists
+**Note**: This list of sanctions only includes technology, computers and programming in related fields. These items have been listed for a variety of reasons, including IP blocking or cessation of export trade. Refer to the [archive](/archives) to view older lists.
 
 ### Operating system
 * [Android](https://www.android.com/) - [Google privacy and terms](https://policies.google.com/terms)
@@ -107,12 +114,16 @@ See: [US Treasury sanctions against Iran](https://www.treasury.gov/resource-cent
 
 ### Web Services
 * [Alexa](https://www.alexa.com/)
+* [Algolia](https://www.algolia.com/) - Seems to be using Cloudflare. See [Subscription Agreement](https://www.cloudflare.com/terms/) - *With IP Blocking (```HTTP 403```)*
+* [Bootstrap](https://getbootstrap.com/) - Uses Algolia to search for documents. Which has blocked Iran's IP.
+* [Debuggex](https://www.debuggex.com/) - *With IP Blocking (```No response```)*
 * [Google Analytics](https://analytics.google.com/analytics/web/) - [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
 * [Google Developers](https://developers.google.com/) - [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
 * [Google Material](https://material.io/) - [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
 * [Google Data Studio](https://datastudio.google.com/) - [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
 * [Grafana](https://grafana.com/) - Seems to be using Google Cloud Platform. See [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
 * [Internet Information Services](https://www.iis.net/) - [Microsoft Exporting Rules](https://www.microsoft.com/en-us/exporting/overview.aspx) - (*Windows is restricted*)
+* [jsDelivr](http://www.jsdelivr.com/) - Uses Algolia to search. Which has blocked Iran's IP.
 * [Font Awesome](https://fontawesome.com/) - except for free use
 * [Olark](https://www.olark.com/) - Seems to be using Google Cloud Platform. See [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)* 
 
@@ -137,6 +148,7 @@ See: [US Treasury sanctions against Iran](https://www.treasury.gov/resource-cent
 * [eBay](http://www.ebay.com/)
 * [ESET](https://www.eset.com/)
 * [GlassWire](https://www.glasswire.com/) - [Terms of Use](https://www.glasswire.com/license/)
+* [GNU Privacy Guard](https://gnupg.org/) - Read [GNU Licenses FAQ](https://www.gnu.org/licenses/gpl-faq.en.html#ExportWarranties) - *With IP Blocking (```No response```)*
 * [Internet Download Manager](http://www.internetdownloadmanager.com)
 * [Kaspersky](https://www.kaspersky.com/)
 * [McAfee](https://www.mcafee.com/en-us/index.html)
