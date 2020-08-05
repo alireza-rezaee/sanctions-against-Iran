@@ -150,6 +150,7 @@
 * فروشگاه [eBay](http://www.ebay.com/)
 * پاد بدافزار [ESET](https://www.eset.com/)
 * نرم افزار [GlassWire](https://www.glasswire.com/) - پیمان: [Terms of Use](https://www.glasswire.com/license/)
+* سایت [GNU Privacy Guard](https://gnupg.org/) - [پرسش های متداول مجوز های GNU](https://www.gnu.org/licenses/gpl-faq.en.html#ExportWarranties) را بخوانید. - *همراه با مسدودیت آی‌پی (بدون پاسخ)*
 * نرم افزار [Internet Download Manager](http://www.internetdownloadmanager.com)
 * پاد بدافزار [Kaspersky](https://www.kaspersky.com/)
 * پاد بدافزار [McAfee](https://www.mcafee.com/en-us/index.html)

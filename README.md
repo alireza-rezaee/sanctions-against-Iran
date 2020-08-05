@@ -141,6 +141,7 @@ See: [US Treasury sanctions against Iran](https://www.treasury.gov/resource-cent
 * [eBay](http://www.ebay.com/)
 * [ESET](https://www.eset.com/)
 * [GlassWire](https://www.glasswire.com/) - [Terms of Use](https://www.glasswire.com/license/)
+* [GNU Privacy Guard](https://gnupg.org/) - Read [GNU Licenses FAQ](https://www.gnu.org/licenses/gpl-faq.en.html#ExportWarranties) - *With IP Blocking (```No response```)*
 * [Internet Download Manager](http://www.internetdownloadmanager.com)
 * [Kaspersky](https://www.kaspersky.com/)
 * [McAfee](https://www.mcafee.com/en-us/index.html)
