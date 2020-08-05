@@ -169,6 +169,8 @@
 * نرم افزار [Microsoft Office](https://www.office.com/) - پیمان: [Microsoft Exporting Rules](https://www.microsoft.com/en-us/exporting/overview.aspx) - *(ویندوز تحریم است)* - به استثنای [آفیس آنلاین](https://www.office.com)
 * نرم افزار [Milkshake App](https://milkshake.app/) - به نظر می رسد که از خدمات ابری Cloudflare بهره می‌برد. قوانین [Cloudflare](https://www.cloudflare.com/terms/) را نگاه کنید. - *همراه با مسدودیت آی‌پی (```کد ۴۰۳```)*
 * پاد بدافزار [Norton AntiVirus](https://us.norton.com/) - *همراه با مسدودیت آی‌پی (```کد ۲۰۰``` - [صفحه ثابت](http://buy-static.norton.com/estore/html/EmbargoedCountriesPage.html))*
+* بازی [Rockstar](Rockstar) - پیمان: [End-user license agreement](https://www.rockstargames.com/eula) - *همراه با مسدودیت آی‌پی*
+* بازی [Steam](https://store.steampowered.com/) - پیمان: [Subscriber Agreement](https://store.steampowered.com/subscriber_agreement/#12) - *همراه با مسدودیت آی‌پی*
 * نرم افزار [TeamViewer](https://www.teamviewer.com/)
 * نرم افزار [TechSmith Camtasia](https://www.techsmith.com/store/camtasia)
 * نرم افزار [TechSmith Snagit](https://www.techsmith.com/store/snagit)
