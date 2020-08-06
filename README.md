@@ -95,9 +95,10 @@ See: [US Treasury sanctions against Iran](https://www.treasury.gov/resource-cent
 
 ### App Store & Software repository
 * [Apple App Store](https://apps.apple.com/us/app/apple-store/id375380948) - [Terms and Conditions](https://www.apple.com/legal/internet-services/itunes/us/terms.html) - Apple operating systems are restricted - A significant number of applications were removed from the App Store. [Follow discussions](https://discussions.apple.com/search?q=iranian%20apps) to see instances.
+* [FileHippo](https://filehippo.com/) - Seems to be using Google Cloud Platform. See [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
 * [Google Code Archieve](https://code.google.com/archive/) - [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
 * [Google Play Store](https://play.google.com/) - [Google privacy and terms](https://policies.google.com/terms) - A significant number of applications were removed from the Play Store. [Follow help center](https://support.google.com/googleplay/search?q=iranian+apps) to see instances.
-* [FileHippo](https://filehippo.com/) - Seems to be using Google Cloud Platform. See [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
+* [Microsoft Store](https://www.microsoft.com/en-us/store/) - [Microsoft Exporting Rules](https://www.microsoft.com/en-us/exporting/overview.aspx)
 
 ### Educational sites
 <sup>It is not possible to buy paid educational content unless it is available for free.</sup>

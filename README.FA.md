@@ -100,9 +100,10 @@
 
 ### فروشگاه ها و مخازن نرم افزاری
 * فروشگاه [Apple App Store](https://apps.apple.com/us/app/apple-store/id375380948) - پیمان: [Terms and Conditions](https://www.apple.com/legal/internet-services/itunes/us/terms.html) - سیستم عامل های اپل تحریم اند - تعداد چشم گیری از نرم افزار های ایرانی از فروشگاه اپل حذف شدند. این [بحث و گفتگو ها](https://discussions.apple.com/search?q=iranian%20apps) را دنبال کنید.
+* سایت [FileHippo](https://filehippo.com/) - به نظر میرسد که از خدمات ابری گوگل بهره می‌برد. [قوانین گوگل](https://policies.google.com/terms) را مطالعه کنید. - *همراه با مسدودیت آی‌پی (```کد ۴۰۳```)*
 * آرشیو [Google Code Archieve](https://code.google.com/archive/) - پیمان: [Google privacy and terms](https://policies.google.com/terms) - *همراه با مسدودیت آی‌پی (```کد ۴۰۳```)*
 * فروشگاه [Google Play Store](https://play.google.com/) - پیمان: [Google privacy and terms](https://policies.google.com/terms) - تعداد قابل چشم گیری از نرم افزار های ایرانی از فروشگاه گوگل حذف شدند. این [بحث و گفتگو ها](https://support.google.com/googleplay/search?q=iranian+apps) ها را دنبال کنید.
-* سایت [FileHippo](https://filehippo.com/) - به نظر میرسد که از خدمات ابری گوگل بهره می‌برد. [قوانین گوگل](https://policies.google.com/terms) را مطالعه کنید. - *همراه با مسدودیت آی‌پی (```کد ۴۰۳```)*
+* فروشگاه [Microsoft Store](https://www.microsoft.com/en-us/store/) - پیمان: [Microsoft Exporting Rules](https://www.microsoft.com/en-us/exporting/overview.aspx)
 
 ### سایت های آموزشی
 
