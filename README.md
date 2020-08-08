@@ -23,6 +23,23 @@ See: [US Treasury sanctions against Iran](https://www.treasury.gov/resource-cent
 
 ## List
 
+ #### Quick access
+
+ * [Operating system](#operating-system)
+ * [Device & driver](#device--driver)
+ * [Software development kit (SDK)](#software-development-kit-sdk)
+ * [Database management system (DBMS)](#database-management-system-dbms)
+ * [Integrated Development Environment & Code Editor](#integrated-development-environment--code-editor)
+ * [Cloud computing service provider](#cloud-computing-service-provider)
+ * [Git repository hosting service](#git-repository-hosting-service)
+ * [Content delivery network providers](#content-delivery-network-providers)
+ * [App Store & Software repository](#app-store--software-repository)
+ * [Educational sites](#educational-sites)
+ * [Web Services](#web-services)
+ * [Team instant messaging](#team-instant-messaging)
+ * [Social networking apps](#social-networking-apps)
+ * [Applications or Services](#applications-or-services)
+
 **Note**: This list of sanctions only includes technology, computers and programming in related fields. These items have been listed for a variety of reasons, including IP blocking or cessation of export trade. Refer to the [archive](/archives) to view older lists.
 
 ### Operating system
@@ -63,7 +80,7 @@ See: [US Treasury sanctions against Iran](https://www.treasury.gov/resource-cent
 * [MySQL](https://www.mysql.com/) - except community edition
 * [Oracle](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html) - [Oracle Global Trade Compliance](https://www.oracle.com/corporate/security-practices/corporate/governance/global-trade-compliance.html)
 
-### Integrated development environment & code editor
+### Integrated Development Environment & Code Editor
 * [Android Studio](https://developer.android.com/studio) - [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - [Export Regulations](https://www.jetbrains.com/legal/agreements/user.html) - except community edition
 * [PhpStorm](https://www.jetbrains.com/phpstorm/) - [Export Regulations](https://www.jetbrains.com/legal/agreements/user.html)
