@@ -81,6 +81,7 @@ See: [US Treasury sanctions against Iran](https://www.treasury.gov/resource-cent
 * [Cloudflare](https://www.cloudflare.com/) - [Subscription Agreement](https://www.cloudflare.com/terms/)
 * [Google Cloud Platform](https://cloud.google.com/) - [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
 * [Microsoft Azure](https://azure.microsoft.com/) - [Microsoft Exporting Rules](https://www.microsoft.com/en-us/exporting/overview.aspx) - When registering an [Azure account](https://azure.microsoft.com/en-us/account/), Iran is not registered in the list of countries.
+* [Salesforce](https://www.salesforce.com/) - [Compliance > Prohibited Countries](https://www.salesforce.com/company/legal/compliance)
 
 ### Git repository hosting service
 * [GitHub](https://github.com/) - [GitHub and Trade Controls](https://docs.github.com/en/github/site-policy/github-and-trade-controls)

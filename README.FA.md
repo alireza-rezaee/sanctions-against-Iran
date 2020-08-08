@@ -86,6 +86,7 @@
 * خدمات [Cloudflare](https://www.cloudflare.com/) - پیمان: [Subscription Agreement](https://www.cloudflare.com/terms/)
 * خدمات [Google Cloud Platform](https://cloud.google.com/) - پیمان: [Google privacy and terms](https://policies.google.com/terms) - *همراه با مسدودیت آی‌پی (```کد ۴۰۳```)*
 * خدمات [Microsoft Azure](https://azure.microsoft.com/) - پیمان: [Microsoft Exporting Rules](https://www.microsoft.com/en-us/exporting/overview.aspx) - هنگام [ثبت حساب Azure](https://azure.microsoft.com/en-us/account/), ایران در فهرست کشور ها قرار ندارد.
+* خدمات [Salesforce](https://www.salesforce.com/) - پیمان: [Compliance > Prohibited Countries](https://www.salesforce.com/company/legal/compliance)
 
 ### میزبانی خدمات گیت
 * خدمات [GitHub](https://github.com/) - پیمان: [GitHub and Trade Controls](https://docs.github.com/en/github/site-policy/github-and-trade-controls)
