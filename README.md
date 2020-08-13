@@ -176,6 +176,7 @@ See: [US Treasury sanctions against Iran](https://www.treasury.gov/resource-cent
 * [Microsoft Defender](https://www.microsoft.com/en-us/windows/comprehensive-security) - [Microsoft Exporting Rules](https://www.microsoft.com/en-us/exporting/overview.aspx) - *(Windows is restricted)*
 * [Microsoft Office](https://www.office.com/) - [Microsoft Exporting Rules](https://www.microsoft.com/en-us/exporting/overview.aspx) - *(Windows is restricted)* - except [Office Online](https://www.office.com)
 * [Milkshake App](https://milkshake.app/) - Seems to be using Cloudflare. See [Subscription Agreement](https://www.cloudflare.com/terms/) - *With IP Blocking (```HTTP 403```)*
+* [Mozilla blog](https://blog.mozilla.org) - [Websites & Communications Terms of Use](https://www.mozilla.org/en-US/about/legal/terms/mozilla/) - *With IP Blocking (```No response```)*
 * [Norton AntiVirus](https://us.norton.com/) - *With IP Blocking (```HTTP 200``` - [Static web page](http://buy-static.norton.com/estore/html/EmbargoedCountriesPage.html))*
 * [Rockstar](Rockstar) - [End-user license agreement](https://www.rockstargames.com/eula) - *With IP Blocking*
 * [Steam](https://store.steampowered.com/) - [Subscriber Agreement](https://store.steampowered.com/subscriber_agreement/#12) - *With IP Blocking*
