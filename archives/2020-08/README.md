@@ -21,6 +21,8 @@ Although your country is being boycotted under various pretexts, the sanctions d
 
 See: [US Treasury sanctions against Iran](https://www.treasury.gov/resource-center/sanctions/programs/pages/iran.aspx)
 
+## List
+
  #### Quick access
 
  * [Operating system](#operating-system)
@@ -55,14 +57,17 @@ See: [US Treasury sanctions against Iran](https://www.treasury.gov/resource-cent
 
 ### Device & driver
 * [Dell](https://www.dell.com) - [Consumer Terms of Sale](https://www.dell.com/learn/us/en/uscorp1/terms-of-sale-consumer)
-* [HP](https://support.hp.com/us-en/drivers/) - [Terms and conditions](https://store.hp.com/us/en/cv/termsandconditions) 
-* [Intel](https://downloadcenter.intel.com/)
-* [lenovo](https://www.lenovo.com/) - *With IP Blocking (```HTTP 403``` - [screenshot](assets/Lenovo-ip-blocking.png))*
-* [SanDisk](https://www.sandisk.com/) - *With IP Blocking (```HTTP 403``` - [screenshot](assets/Sandisk-ip-blocking.png))*
+* [HP](https://support.hp.com/us-en/drivers/) - [Terms and conditions](https://store.hp.com/us/en/cv/termsandconditions) - *With IP Blocking (```HTTP 403```)*
+* [I-Life](https://www.lifedigital.com/) - *With IP Blocking (```No response```)*
+* [Intel](https://downloadcenter.intel.com/) - *With IP Blocking (```No response```)*
+* [lenovo](https://www.lenovo.com/) - *With IP Blocking (```HTTP 403```)*
+* [SanDisk](https://www.sandisk.com/) - *With IP Blocking (```HTTP 403```)*
+* [Sony](http://dlv.update.sony.net/) - *With IP Blocking (```HTTP 403```)*
 
 ### Software development kit (SDK)
-* [Android](https://developer.android.com/studio) - [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403``` - [screenshot](assets/google-ip-blocking.jpg))*
-* [Go lang](https://golang.org/) - [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403``` - [screenshot](assets/google-ip-blocking.jpg))*
+* [Android](https://developer.android.com/studio) - [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
+* [Go lang](https://golang.org/) - [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
+* [Intel C++ Compiler](https://software.intel.com/content/www/us/en/develop/tools/compilers/c-compilers.html) - *With IP Blocking (```No response```)*
 * [Java](https://www.oracle.com/java/technologies/javase-downloads.html) - [License Agreement](https://www.oracle.com/downloads/licenses/javase-license1.html)
 * [Qt](https://www.qt.io/) - except use Qt under the (L)GPL
 * [RedHat OpenJDK](https://developers.redhat.com/products/openjdk/download) - Membership is required for download. If you register, your account will be suspended and you will be shown the [Export Hold article](https://access.redhat.com/articles/1340183).
@@ -76,7 +81,7 @@ See: [US Treasury sanctions against Iran](https://www.treasury.gov/resource-cent
 * [Oracle](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html) - [Oracle Global Trade Compliance](https://www.oracle.com/corporate/security-practices/corporate/governance/global-trade-compliance.html)
 
 ### Integrated Development Environment & Code Editor
-* [Android Studio](https://developer.android.com/studio) - [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403``` - [screenshot](assets/google-ip-blocking.jpg))*
+* [Android Studio](https://developer.android.com/studio) - [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - [Export Regulations](https://www.jetbrains.com/legal/agreements/user.html) - except community edition
 * [PhpStorm](https://www.jetbrains.com/phpstorm/) - [Export Regulations](https://www.jetbrains.com/legal/agreements/user.html)
 * [PyCharm](https://www.jetbrains.com/pycharm/) - [Export Regulations](https://www.jetbrains.com/legal/agreements/user.html) - except community edition
@@ -91,25 +96,25 @@ See: [US Treasury sanctions against Iran](https://www.treasury.gov/resource-cent
 * [Alibaba Cloud](https://www.alibabacloud.com) - [Terms of Service](https://www.alibabacloud.com/help/doc-detail/42416.htm)
 * [Amazon Web Services](https://aws.amazon.com/) - [AWS Customer Agreement](https://aws.amazon.com/agreement/)
 * [Cloudflare](https://www.cloudflare.com/) - [Subscription Agreement](https://www.cloudflare.com/terms/)
-* [Google Cloud Platform](https://cloud.google.com/) - [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403``` - [screenshot](assets/google-ip-blocking.jpg))*
-* [Microsoft Azure](https://azure.microsoft.com/) - [Microsoft Exporting Rules](https://www.microsoft.com/en-us/exporting/overview.aspx) - Also when registering an [Azure account](https://azure.microsoft.com/en-us/account/), Iran is not registered in the list of countries.
+* [Google Cloud Platform](https://cloud.google.com/) - [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
+* [Microsoft Azure](https://azure.microsoft.com/) - [Microsoft Exporting Rules](https://www.microsoft.com/en-us/exporting/overview.aspx) - When registering an [Azure account](https://azure.microsoft.com/en-us/account/), Iran is not registered in the list of countries.
 * [Salesforce](https://www.salesforce.com/) - [Compliance > Prohibited Countries](https://www.salesforce.com/company/legal/compliance)
 
 ### Git repository hosting service
-* [GitHub](https://github.com/) - [GitHub and Trade Controls](https://docs.github.com/en/github/site-policy/github-and-trade-controls) - [screenshot](assets/github-ip-restrictions.png)
-* [GitLab](https://about.gitlab.com/) - [GCP migration notes](https://about.gitlab.com/blog/2018/07/19/gcp-move-update/) *With IP Blocking (```HTTP 403``` - [screenshot](assets/Cloudflare-ip-blocking-3.png))*
+* [GitHub](https://github.com/) - [GitHub and Trade Controls](https://docs.github.com/en/github/site-policy/github-and-trade-controls)
+* [GitLab](https://about.gitlab.com/) - [GCP migration notes](https://about.gitlab.com/blog/2018/07/19/gcp-move-update/): GitLab may not be accessible after the migration to Google.
   
 ### Content delivery network providers
 * [Amazon CloudFront](https://aws.amazon.com/) - [AWS Customer Agreement](https://aws.amazon.com/agreement/)
 * [Cloudflare](https://www.cloudflare.com/) - [Subscription Agreement](https://www.cloudflare.com/terms/)
-* [Google Cloud CDN](https://cloud.google.com/cdn) - [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403``` - [screenshot](assets/google-ip-blocking.jpg))*
+* [Google Cloud CDN](https://cloud.google.com/cdn) - [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
 * [Microsoft Azure CDN](https://azure.microsoft.com/en-us/services/cdn/) - [Microsoft Exporting Rules](https://www.microsoft.com/en-us/exporting/overview.aspx)
 * [StackPath](https://www.stackpath.com/products/cdn/) - [Master Service Agreement](https://www.stackpath.com/legal/master-service-agreement/)
 
 ### App Store & Software repository
 * [Apple App Store](https://apps.apple.com/us/app/apple-store/id375380948) - [Terms and Conditions](https://www.apple.com/legal/internet-services/itunes/us/terms.html) - Apple operating systems are restricted - A significant number of applications were removed from the App Store. [Follow discussions](https://discussions.apple.com/search?q=iranian%20apps) to see instances.
-* [FileHippo](https://filehippo.com/) - Seems to be using Google Cloud Platform. See [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403``` - [screenshot](assets/google-ip-blocking.jpg))*
-* [Google Code Archieve](https://code.google.com/archive/) - [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403``` - [screenshot](assets/google-ip-blocking.jpg))*
+* [FileHippo](https://filehippo.com/) - Seems to be using Google Cloud Platform. See [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
+* [Google Code Archieve](https://code.google.com/archive/) - [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
 * [Google Play Store](https://play.google.com/) - [Google privacy and terms](https://policies.google.com/terms) - A significant number of applications were removed from the Play Store. [Follow help center](https://support.google.com/googleplay/search?q=iranian+apps) to see instances.
 * [Microsoft Store](https://www.microsoft.com/en-us/store/) - [Microsoft Exporting Rules](https://www.microsoft.com/en-us/exporting/overview.aspx)
 
@@ -117,7 +122,7 @@ See: [US Treasury sanctions against Iran](https://www.treasury.gov/resource-cent
 <sup>It is not possible to buy paid educational content unless it is available for free.</sup>
 
 * [Codecademy](https://www.codecademy.com/terms)
-* [Code with Mosh](https://codewithmosh.com/) - Seems to be using Cloudflare. See [Subscription Agreement](https://www.cloudflare.com/terms/) - *With IP Blocking (```HTTP 403``` - [screenshot](assets/Cloudflare-ip-blocking-2.png))*
+* [Code with Mosh](https://codewithmosh.com/) - Seems to be using Cloudflare. See [Subscription Agreement](https://www.cloudflare.com/terms/) - *With IP Blocking (```HTTP 403```)*
 * [Coursera](https://www.coursera.org/about/terms)
 * [GitLab docs](http://docs.gitlab.com/) - *With IP Blocking (```No response```)*
 * [JavaScript.com](https://www.javascript.com/) - *With IP Blocking (```No response```)*
@@ -128,17 +133,18 @@ See: [US Treasury sanctions against Iran](https://www.treasury.gov/resource-cent
 
 ### Web Services
 * [Alexa](https://www.alexa.com/)
-* [Algolia](https://www.algolia.com/) - Seems to be using Cloudflare. See [Subscription Agreement](https://www.cloudflare.com/terms/) - *With IP Blocking (```HTTP 403``` - [screenshot](assets/Cloudflare-ip-blocking-1.png))*
+* [Algolia](https://www.algolia.com/) - Seems to be using Cloudflare. See [Subscription Agreement](https://www.cloudflare.com/terms/) - *With IP Blocking (```HTTP 403```)*
 * [Bootstrap](https://getbootstrap.com/) - Uses Algolia to search for documents. Which has blocked Iran's IP.
 * [Debuggex](https://www.debuggex.com/) - *With IP Blocking (```No response```)*
-* [Google Analytics](https://analytics.google.com/analytics/web/) - [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403``` - [screenshot](assets/google-ip-blocking.jpg))*
-* [Google Developers](https://developers.google.com/) - [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403``` - [screenshot](assets/google-ip-blocking.jpg))*
-* [Google Material](https://material.io/) - [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403``` - [screenshot](assets/google-ip-blocking.jpg))*
-* [Google Data Studio](https://datastudio.google.com/) - [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403``` - [screenshot](assets/google-ip-blocking.jpg))*
+* [Google Analytics](https://analytics.google.com/analytics/web/) - [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
+* [Google Developers](https://developers.google.com/) - [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
+* [Google Material](https://material.io/) - [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
+* [Google Data Studio](https://datastudio.google.com/) - [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
+* [Grafana](https://grafana.com/) - Seems to be using Google Cloud Platform. See [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
 * [Internet Information Services](https://www.iis.net/) - [Microsoft Exporting Rules](https://www.microsoft.com/en-us/exporting/overview.aspx) - (*Windows is restricted*)
 * [jsDelivr](http://www.jsdelivr.com/) - Uses Algolia to search. Which has blocked Iran's IP.
 * [Font Awesome](https://fontawesome.com/) - except for free use
-* [Olark](https://www.olark.com/) - Seems to be using Google Cloud Platform. See [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403``` - [screenshot](assets/google-ip-blocking.jpg))* 
+* [Olark](https://www.olark.com/) - Seems to be using Google Cloud Platform. See [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)* 
 
 ### Team instant messaging
 * [Cisco WebEx](http://www.webex.com/) - *With IP Blocking (```HTTP 301``` → ```No response```)*
@@ -152,14 +158,14 @@ See: [US Treasury sanctions against Iran](https://www.treasury.gov/resource-cent
 <sup>These applications or services may be paid or in-app purchases or may use IP blocking for deprivation.</sup>
 
 * [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html)
-* [Airbnb](https://www.airbnb.com/) - *With IP Blocking ([```HTTP 403```](https://www.airbnb.com/region_unavailable/index.html)  - [screenshot](assets/airbnb-ip-blocking.png))*
+* [Airbnb](https://www.airbnb.com/) - *With IP Blocking ([```HTTP 403```](https://www.airbnb.com/region_unavailable/index.html))*
 * [Amazon](https://www.amazon.com/)
-* [Avast](https://www.avast.com/) - *With IP Blocking (```HTTP 403``` - [screenshot](assets/Avast-ip-blocking.png))*
+* [Avast](https://www.avast.com/) - *With IP Blocking (```HTTP 403```)*
 * [AVG](https://www.avg.com/) - *With IP Blocking (```No response```)*
 * [Avira](https://www.avira.com/)
 * [BitDefender](https://www.bitdefender.com/)
 * [eBay](http://www.ebay.com/)
-* [Epic Games](https://www.epicgames.com/) - [FAQ from billing support](https://www.epicgames.com/help/en-US/billing-support-c99/general-support-c102/what-regions-are-permitted-to-make-purchases-with-epic-games-a3323) - *With IP Blocking (In-app)* - [screenshot](assets/EpicGames-ip-blocking.jpg)
+* [Epic Games](https://www.epicgames.com/) - [FAQ from billing support](https://www.epicgames.com/help/en-US/billing-support-c99/general-support-c102/what-regions-are-permitted-to-make-purchases-with-epic-games-a3323) - *With IP Blocking (In-app)*
 * [ESET](https://www.eset.com/)
 * [GlassWire](https://www.glasswire.com/) - [Terms of Use](https://www.glasswire.com/license/)
 * [GNU Privacy Guard](https://gnupg.org/) - Read [GNU Licenses FAQ](https://www.gnu.org/licenses/gpl-faq.en.html#ExportWarranties) - *With IP Blocking (```No response```)*
@@ -169,15 +175,16 @@ See: [US Treasury sanctions against Iran](https://www.treasury.gov/resource-cent
 * [Malwarebytes](https://www.malwarebytes.com/)
 * [Microsoft Defender](https://www.microsoft.com/en-us/windows/comprehensive-security) - [Microsoft Exporting Rules](https://www.microsoft.com/en-us/exporting/overview.aspx) - *(Windows is restricted)*
 * [Microsoft Office](https://www.office.com/) - [Microsoft Exporting Rules](https://www.microsoft.com/en-us/exporting/overview.aspx) - *(Windows is restricted)* - except [Office Online](https://www.office.com)
-* [Milkshake App](https://milkshake.app/) - Seems to be using Cloudflare. See [Subscription Agreement](https://www.cloudflare.com/terms/) - *With IP Blocking (```HTTP 403``` - [screenshot](assets/Cloudflare-ip-blocking-1.png))*
+* [Milkshake App](https://milkshake.app/) - Seems to be using Cloudflare. See [Subscription Agreement](https://www.cloudflare.com/terms/) - *With IP Blocking (```HTTP 403```)*
 * [Mozilla blog](https://blog.mozilla.org) - [Websites & Communications Terms of Use](https://www.mozilla.org/en-US/about/legal/terms/mozilla/) - *With IP Blocking (```No response```)*
-* [Norton AntiVirus](https://us.norton.com/) - *With IP Blocking (```HTTP 200``` - [Static web page](http://buy-static.norton.com/estore/html/EmbargoedCountriesPage.html) - [screenshot](assets/norton-ip-blocking.png))*
-* [Rockstar](https://www.rockstargames.com) - [End-user license agreement](https://www.rockstargames.com/eula) - *With IP Blocking* - [screenshot](assets/rockstargames-ip-blocking.jpg)
-* [Steam](https://store.steampowered.com/) - [Subscriber Agreement](https://store.steampowered.com/subscriber_agreement/#12) - *With IP Blocking* - [screenshot](assets/steampowered-ip-blocking.jpg)
+* [Norton AntiVirus](https://us.norton.com/) - *With IP Blocking (```HTTP 200``` - [Static web page](http://buy-static.norton.com/estore/html/EmbargoedCountriesPage.html))*
+* [Rockstar](Rockstar) - [End-user license agreement](https://www.rockstargames.com/eula) - *With IP Blocking*
+* [Steam](https://store.steampowered.com/) - [Subscriber Agreement](https://store.steampowered.com/subscriber_agreement/#12) - *With IP Blocking*
 * [TeamViewer](https://www.teamviewer.com/)
 * [TechSmith Camtasia](https://www.techsmith.com/store/camtasia)
 * [TechSmith Snagit](https://www.techsmith.com/store/snagit)
-* [TensorFlow](https://www.tensorflow.org/) - Seems to be using Google Cloud Platform. See [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403``` - [screenshot](assets/google-ip-blocking.jpg))*
+* [TensorFlow](https://www.tensorflow.org/) - Seems to be using Google Cloud Platform. See [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
+* [Uber](https://www.uber.com/) - Seems to be using Google Cloud Platform. See [Google privacy and terms](https://policies.google.com/terms) - *With IP Blocking (```HTTP 403```)*
 * [VMware](https://www.vmware.com/)
 * [WinRAR](https://www.win-rar.com)
 * [YouTube](https://www.youtube.com/) - It is also blocked according to [Iranian internet regulations](https://internet.ir/crime_index.html).
