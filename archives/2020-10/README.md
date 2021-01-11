@@ -96,6 +96,7 @@ See: [US Treasury sanctions against Iran](https://www.treasury.gov/resource-cent
 * [Salesforce](https://www.salesforce.com/) - [Compliance > Prohibited Countries](https://www.salesforce.com/company/legal/compliance)
 
 ### Git repository hosting service
+* [GitHub](https://github.com/) - [GitHub and Trade Controls](https://docs.github.com/en/github/site-policy/github-and-trade-controls) - [screenshot](assets/github-ip-restrictions.png)
 * [GitLab](https://about.gitlab.com/) - [GCP migration notes](https://about.gitlab.com/blog/2018/07/19/gcp-move-update/) *With IP Blocking (```HTTP 403``` - [screenshot](assets/Cloudflare-ip-blocking-3.png))*
   
 ### Content delivery network providers

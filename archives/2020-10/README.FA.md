@@ -101,6 +101,7 @@
 * خدمات [Salesforce](https://www.salesforce.com/) - پیمان: [Compliance > Prohibited Countries](https://www.salesforce.com/company/legal/compliance)
 
 ### میزبانی خدمات گیت
+* خدمات [GitHub](https://github.com/) - پیمان: [GitHub and Trade Controls](https://docs.github.com/en/github/site-policy/github-and-trade-controls) - [اسکرین‌شات](assets/github-ip-restrictions.png)
 * خدمات [GitLab](https://about.gitlab.com/) - [مهاجرت به GCP](https://about.gitlab.com/blog/2018/07/19/gcp-move-update/) - [اسکرین‌شات](assets/Cloudflare-ip-blocking-3.png)
   
 ### شبکه تحویل محتوا (CDN)
